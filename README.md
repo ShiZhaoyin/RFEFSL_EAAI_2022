@@ -1,2 +1,6 @@
 # RFEFSL-EAAI-2022-
 The code of "Robust and fuzzy ensemble framework via spectral learning for random projection-based fuzzy-c-means clustering" published in "Engineering Applications of Artificial Intelligence"
+This code is for academic communication purposes only. 
+To use this code, please cite the paper: "Robust and fuzzy ensemble framework via spectral learning for random projection-based fuzzy-c-means clustering, Zhaoyin Shi, Long Chen, et.al. Engineering Applications of Artificial Intelligence 117 (2023) 105541. Doi: https://doi.org/10.1016/j.engappai.2022.105541".
+NewData is the original data. BaseClustering is the ensemble objects used in the paper, which generated from RP-FCM.
+Please use "Baseclustering" as input
